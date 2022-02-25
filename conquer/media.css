@@ -1,0 +1,465 @@
+@media only screen and (max-width: 480px){
+  .navbar-expand-lg{
+        background-color: transparent !important;
+        display: block;
+        text-align: center !important;
+        
+}
+    i{
+        align-items: flex-end!important;
+        background-color: #49505F !important;
+        border: none !important;
+    }
+    
+    .navbar-toggler{
+        border: none !important;
+        float: right !important;
+        
+    }
+
+        
+    .navbar-toggler:active{
+        border: none !important;
+    }
+    
+        
+    .navbar-toggler:hover{
+        border: none !important;
+    }
+    
+        
+    .navbar-toggler:focus{
+        border: none !important;
+        box-shadow: 0 0 0 0;
+    }
+    
+    .nav-link{
+        background-color: #49505F !important;
+    }
+    
+    .active{
+    background-color: #646d7c !important;
+    border: 1px dotted #ffffff !important;
+
+    }
+    
+    ul li a:hover{
+    background-color:#646d7c !important;
+    border-style: 2px dotted #ffffff !important;
+}
+
+    ul li a:focus{
+    background-color: #646d7c !important;
+    border-style: 2px dotted #ffffff !important;
+}
+    .contact-form-left{
+        width: 100%;
+        display: block;
+        padding-left: 10px !important;
+    } 
+    .contact-form-right{
+        width: 97%;
+        display: block;
+        padding-left: 10px !important;
+    }
+  
+}
+
+
+@media only screen and (min-width: 481px) and (max-width: 520px){
+
+      .navbar-expand-lg{
+        background-color: transparent !important;
+        display: block;
+        text-align: center !important;
+        
+      }
+    
+    i{
+        align-items: flex-end!important;
+        background-color: #49505F !important;
+        border: none !important;
+    }
+    
+    .navbar-toggler{
+        border: none !important;
+        float: right !important;
+        border-radius: 4px;
+    }
+
+        
+    .navbar-toggler:active{
+        border: none !important;
+    }
+    
+        
+    .navbar-toggler:hover{
+        border: none !important;
+    }
+    
+        
+    .navbar-toggler:focus{
+        border: none !important;
+        box-shadow: 0 0 0 0;
+    }
+    
+    .nav-link{
+        background-color: #49505F !important;
+    }
+    
+    .active{
+    background-color: #646d7c !important;
+    border: 1px dotted #ffffff !important;
+
+    }
+    
+    ul li a:hover{
+    background-color:#646d7c !important;
+    border-style: 2px dotted #ffffff !important;
+}
+
+    ul li a:focus{
+    background-color: #646d7c !important;
+    border-style: 2px dotted #ffffff !important;
+}
+    .contact-form-left{
+        width: 100%;
+        display: block;
+        padding-left: 10px !important;
+    } 
+    .contact-form-right{
+        width: 98%;
+        display: block;
+        padding-left: 10px !important;
+    }
+  
+    .blog-content{
+        width: 100% !important;
+        display: block !important;
+    } 
+    
+    .blog-content img{
+        width: 100%;
+        display: block;
+        
+    }
+     .about-section{
+        width: 100% !important;
+        display: block !important;
+    }
+    
+}
+
+@media only screen and (max-width: 767px) and (min-width: 521px){
+    .navbar-expand-lg{
+        background-color: transparent !important;
+        display: block;
+        text-align: center !important;
+        
+}
+    i{
+        align-items: flex-end!important;
+        background-color: #49505F !important;
+        border: none !important;
+    }
+    
+    .navbar-toggler{
+    border: none !important;
+    float: right !important;
+    }
+
+        
+    .navbar-toggler:active{
+        border: none !important;
+    }
+    
+        
+    .navbar-toggler:hover{
+        border: none !important;
+    }
+    
+        
+    .navbar-toggler:focus{
+        border: none !important;
+        box-shadow: 0 0 0 0;
+    }
+    
+    .nav-link{
+        background-color: #49505F !important;
+    }
+    
+    .active{
+    background-color: #646d7c !important;
+    border: 1px dotted #ffffff !important;
+
+    }
+    
+    ul li a:hover{
+    background-color:#646d7c !important;
+    border-style: 2px dotted #ffffff !important;
+    }
+
+    ul li a:focus{
+    background-color: #646d7c !important;
+    border-style: 2px dotted #ffffff !important;
+    }
+
+    
+    
+    .contact-form-left{
+        width: 100%;
+        display: block;
+        padding-left: 10px !important;
+    } 
+    .contact-form-right{
+        width: 98%;
+        display: block;
+        padding-left: 10px !important;
+    }
+  
+    .blog-content{
+        width: 100%;
+        display: block;
+    } 
+    
+    .bootstrap{
+        width: 100%;
+        display: block;
+    
+    }
+    
+    .responsive{
+        width: 100%;
+        display: block;
+    
+    }
+    
+    .parallax{
+        width: 100%;
+        display: block;
+    
+    }
+    
+    .one{
+        width: 100%;
+        display: block;
+    }
+    
+     .two{
+        width: 100%;
+        display: block;
+    }
+
+    .more{
+        display: block;
+        width: 100%;
+       
+    }
+  .blog-content span {
+      margin-left: 200px;
+      /text-align: center; 
+    }
+}
+
+
+@media only screen and (max-width: 992px) and (min-width: 768px){
+      .navbar-expand-lg{
+        background-color: #383E4C !important;
+        display: block;
+        text-align: center !important;
+        
+}
+    i{
+        align-items: flex-end!important;
+        background-color: #49505F !important;
+        border: none !important;
+    }
+    
+    .navbar-toggler{
+        border: none !important;
+        float: right !important;
+    }
+
+        
+    .navbar-toggler:active{
+        border: none !important;
+    }
+    
+        
+    .navbar-toggler:hover{
+        border: none !important;
+    }
+    
+        
+    .navbar-toggler:focus{
+        border: none !important;
+        box-shadow: 0 0 0 0;
+    }
+    
+    .nav-link{
+        background-color: #49505F !important;
+        width: 100%;
+        display: block;
+    }
+    
+    .nav-item{
+        width: 100%;
+        display: block;
+    }
+    .active{
+    background-color: #646d7c !important;
+    border: 1px dotted #ffffff !important;
+
+    }
+    
+    ul li a:hover{
+    background-color:#646d7c !important;
+    border-style: 2px dotted #ffffff !important;
+}
+
+    ul li a:focus{
+    background-color: #646d7c !important;
+    border-style: 2px dotted #ffffff !important;
+}
+    
+  
+    .blog-content{
+        width: 100%;
+        display: block;
+    }  
+  .blog-content span {
+      margin-left: -220px;
+      
+    } 
+
+    .more{
+        padding-left: 300px !important;
+    }
+    
+    .column1{
+        width: 50%;
+        display: block;
+    }
+    
+     .column2{
+        width: 50%;
+        display: block;
+    }
+    
+    .column3{
+        width: 50%;
+        display: block;
+    }
+     
+    .column4{
+        width: 50%;
+        display: block;
+    }
+    
+   
+    
+}
+    
+    
+
+
+
+
+@media (min-width: 992px) and (max-width: 1199px){
+      .navbar-expand-lg{
+        background-color: #383E4C !important;
+        display: block;
+        text-align: center !important;
+        }
+    i{
+        align-items: flex-end!important;
+        background-color: #49505F !important;
+        border: none !important;
+    }
+    
+    .navbar-toggler{
+        border: none !important;
+        float: right !important;
+    }
+
+        
+    .navbar-toggler:active{
+        border: none !important;
+    }
+    
+        
+    .navbar-toggler:hover{
+        border: none !important;
+    }
+    
+        
+    .navbar-toggler:focus{
+        border: none !important;
+        box-shadow: 0 0 0 0;
+    }
+    
+    .nav-link{
+        background-color: #49505F !important;
+    }
+    
+    .active{
+    background-color: #646d7c !important;
+    border: 1px dotted #ffffff !important;
+
+    }
+    
+    ul li a:hover{
+    background-color:#646d7c !important;
+    border-style: 2px dotted #ffffff !important;
+}
+
+    ul li a:focus{
+    background-color: #646d7c !important;
+    border-style: 2px dotted #ffffff !important;
+}
+   
+    .blog-content{
+        width: 100%;
+        display: block;
+    }  
+     
+   
+}
+
+
+@media (min-width: 300px) and (max-width: 767px){
+    .blog-content span {
+      margin-left: -220px;
+      
+    } 
+
+    .more{
+        padding-left: 300px !important;
+    }
+    
+    
+    
+}
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
